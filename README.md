@@ -8,7 +8,7 @@ To play game on localhost:
 1. Download assignment1server.jar and assignment1client.jar executable jar files.
 2. Execute assignment1server.jar. This will start a server process that listens on port 5555 for two connections.
 3. Execute assignment1client.jar. This will open a login screen. Enter localhost for Server, 5555 for port, and desired username for Player 1.
-4. Execute another instance of assignment1Client.jar. Enter localast for Server, 5555 for port, and desired username for Player 2.
+4. Execute another instance of assignment1Client.jar. Enter localhost for Server, 5555 for port, and desired username for Player 2.
 5. Enjoy a game of Tic Tac Toe!
 
 To play game remotely:
